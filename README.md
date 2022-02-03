@@ -9,7 +9,5 @@ Vite+React+TypeScript+Pug+Sassの開発環境
 
 ```
 npm install
-npm run dev
+npm start
 ```
-
-http://localhost:3000/
