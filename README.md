@@ -2,7 +2,7 @@
 
 https://vitejs.dev/
 
-Vite+React+TypeScript+Pug+Sassの開発環境
+Vite+React+TypeScript+Sassの開発環境
 
 
 ## 開発
